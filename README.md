@@ -21,8 +21,8 @@
 [曾文溪陰天俯視影像](http://140.119.164.183:5000/sharing/7Ssfp1atT)  
 
 ##
-下面為部分預覽影像： 
-<img src="https://github.com/nccudrone/RIVERAVVD/blob/main/image/river1.png" width="428" height="240"/> 
+下面為部分預覽影像：  
+<img src="https://github.com/nccudrone/RIVERAVVD/blob/main/image/river1.png" width="428" height="240"/>  
 <img src="https://github.com/nccudrone/RIVERAVVD/blob/main/image/river2.png" width="428" height="240"/><br/>
 ## Notes  
 * 此資料集為河流俯視角空拍影像資料集的一部分，做為免費開放使用
