@@ -27,7 +27,7 @@
 ## Notes  
 * 此資料集為河流俯視角空拍影像資料集的一部分，做為免費開放使用
 * 此資料集用於學術研究
-* 此資料集僅包含mp4、MOV檔案，圖像、遮罩與標註檔案請參考：[repo]
+* 此資料集僅包含mp4、MOV檔案，圖像、遮罩與標註檔案請參考：[repo](https://github.com/nccudrone/RIVERAVSSD "link")
 ## Licence
 請參考 [LICENSE](https://github.com/nccudrone/RIVERAVVD/blob/main/LICENSE "link")
 
